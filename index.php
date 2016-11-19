@@ -1,1 +1,1 @@
-<?php include_once("DP-Responsive-Portfolio"); ?>
+<?php include_once("index.html"); ?>
